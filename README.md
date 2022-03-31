@@ -19,7 +19,7 @@
 # Bachelor of Engineering Kogakuin University
 • Laboratory: Communication Service System Laboratory
 
-** reaserch result**
+**reaserch result**
 * Transmission control method based on the total amount of transmission data of the node in Delay Tolerant Networking
 * Transmission control method based on battery level in Delay Tolerant Networking
 
