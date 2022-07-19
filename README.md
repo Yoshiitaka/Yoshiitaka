@@ -1,6 +1,6 @@
 # ⚡️ Status
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Yoshiitaka&hide=contribs&count_private=true&show_icons=true&theme=dark)](https://github.com/ユーザ名/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Yoshiitaka&hide=contribs&count_private=true&show_icons=true&theme=dark)](https://github.com/Yoshiitaka/)
 
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshiitaka&layout=compact&theme=dark)](https://github.com/Yoshiitaka/)
