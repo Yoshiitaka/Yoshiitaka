@@ -33,6 +33,21 @@
 
 **I wrote the above paper. We received the 5th Information Network Young Research Encouragement Award at the Information Network Study Group of the Institute of Electronics, Information and Communication Engineers.**
 
+
+# Contribute Experience
+
+https://github.com/aws-amplify/amplify-js/pull/9935
+
+https://github.com/aws/aws-cdk/pull/19625
+
+https://github.com/aws/aws-cdk/pull/19203
+
+https://github.com/hashicorp/terraform-provider-aws/pull/23173
+
+https://github.com/hashicorp/terraform-provider-aws/pull/23318
+
 # 📬 Contact Me
 [Twitter](https://twitter.com/yoshii0110)
+
+
 
