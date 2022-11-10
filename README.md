@@ -24,7 +24,7 @@
 * I have experience in the stage at JAWS-UG Chiba branch.
 * Introduced a function using AppSync + DynamoDB
 
-## ③: Support engineer, DB Support Team, AWS Japan, Tokyo 
+## ③: Support Engineer, DB Support Team, AWS Japan, Tokyo 
 * Amazon RDS / Aurora support operations
 
 # 🎓 Bachelor of Engineering Kogakuin University
