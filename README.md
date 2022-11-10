@@ -14,7 +14,7 @@
 * Participated in peer code develop
 * Organized a welcome event for new members.
 
-## ②: Core Staff, XR Team, Attendance Department KDDI, Tokyo 
+## ②: Core Staff, XR Team, KDDI, Tokyo 
 * Developing and managing a contents management system for XR applications by using Golang, TypeScript, Vue, Element UI, AWS. 
 * When the Scrum master is absent, I become the Scrum master and support the team members.
 * Created a release template and automated the release flow.
@@ -23,6 +23,9 @@
 * While joining KDDI, I have posted 99 articles as of now (as of February 8, 2022), including posting to Qiita and Zenn.
 * I have experience in the stage at JAWS-UG Chiba branch.
 * Introduced a function using AppSync + DynamoDB
+
+## ③: Support engineer, DB Support Team, AWS Japan, Tokyo 
+* Amazon RDS / Aurora support operations
 
 # 🎓 Bachelor of Engineering Kogakuin University
 • Laboratory: Communication Service System Laboratory
